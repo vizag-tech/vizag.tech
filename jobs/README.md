@@ -2,9 +2,9 @@
 
 | Work details | Company |   
 | --- | --- |   
-| General purpose developers, Internship | [BlueSapience](www.bluesapience.com) |   
-| Librarian | [Book Magic](bookmagic.in) |      
-| Full stack developer, 3 yrs experience, Client Project | [Coursack](coursack.com) |   
-| Mobile developer, 2+ yrs experience | [Antar Smart Homes](www.antarsmarthomes.com) |    
-| Ruby on Rails, 3+ yrs experience | [Datafoundary](www.datafondary.ai) |    
+| General purpose developers, Internship | [BlueSapience](http://www.bluesapience.com) |   
+| Librarian | [Book Magic](http://bookmagic.in) |      
+| Full stack developer, 3 yrs experience, Client Project | [Coursack](http://coursack.com) |   
+| Mobile developer, 2+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |    
+| Ruby on Rails, 3+ yrs experience | [Datafoundary](http://www.datafondary.ai) |    
    
