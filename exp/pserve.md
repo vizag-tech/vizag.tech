@@ -1,0 +1,1 @@
+Get some pool of servers from digital ocean and provide for people in Vizag.tech to experiment and run their services on the machines. Can start with once server. Deployment can be done using github CD pipelines. A simple and secure way of enabling them to run their services must be designed.
