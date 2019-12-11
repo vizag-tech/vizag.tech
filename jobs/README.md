@@ -8,7 +8,7 @@
 | Mobile developer, 2+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |    
 | Ruby on Rails, 3+ yrs experience | [Datafoundry](http://www.datafoundry.ai) |    
      
-#### Positions recently closed  
+#### Positions filled recently 
 
 | Work details | Company |   
 | --- | --- |   
