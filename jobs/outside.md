@@ -2,5 +2,5 @@
 
 | Work details | Company | Location |    
 | --- | --- | --- |    
-| Rewrite existing WebService in Go Language, Fresher | [Kinige](kinige.com) | Hyderabad / Remote |   
-| User Experiene Developer, Front End JS | [Apxor](www.apxor.com) | Hyderabad |   
+| Rewrite existing WebService in Go Language, Fresher | [Kinige](http://kinige.com) | Hyderabad / Remote |   
+| User Experiene Developer, Front End JS | [Apxor](http://www.apxor.com) | Hyderabad |   
