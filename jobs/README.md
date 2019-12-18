@@ -2,7 +2,8 @@
 
 | Work details | Company |   
 | --- | --- |   
-| General purpose developers, Internship | [BlueSapience](http://www.bluesapience.com) |   
+| JS developer to build next generation Web Editor | [BlueSapience](http://www.bluesapience.com) |   
+| Vue developer to build stand alone components | [BlueSapience](http://www.bluesapience.com) |   
 | Librarian | [Book Magic](http://bookmagic.in) |      
 | Full stack developer, 3 yrs experience, Client Project | [Coursack](http://coursack.com) |   
 | Mobile developer, 2+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |    
