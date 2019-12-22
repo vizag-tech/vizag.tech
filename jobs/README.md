@@ -15,4 +15,7 @@
 
 | Work details | Company |   
 | --- | --- |   
-| iOS developer, 4+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |    
+| iOS developer, 4+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |     
+        
+For positions [outside of Vizag](outside)   
+    
