@@ -17,5 +17,5 @@
 | --- | --- |   
 | iOS developer, 4+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |     
         
-For positions [outside of Vizag](outside)   
+Open positions [outside of Vizag](outside)   
     
