@@ -1,0 +1,19 @@
+### To post about job opening in Vizag
+
+For software related job openings you can send WhatsApp message with following details
++ Open position role
++ Experience required
++ Company website
+
+Also send these details in the message, these are required for the process. Not for sharing with public.
++ Contact person to reach out.
+	+ name 
+	+ phone number
+	+ email address
++ Salary range.
+
+
+Note:
+These messages are processed weekly once.
+
+[Send WhatsApp message](https://api.whatsapp.com/send?phone=917674882980‬&text=New%2C%20Open%2C%20Position!)
