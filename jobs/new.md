@@ -16,4 +16,4 @@ Also send these details in the message, these are required for the process. Not 
 Note:
 These messages are processed weekly once.
 
-[Send WhatsApp message](https://api.whatsapp.com/send?phone=917674882980‬&text=New%2C%20Open%2C%20Position!)
+[Send WhatsApp message](https://api.whatsapp.com/send?phone=917674882980‬&text=Open%20position%20in%20our%20company...)
