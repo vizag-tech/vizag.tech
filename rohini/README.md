@@ -27,7 +27,7 @@ The modern factory schooling education system is one of the greatest crimes agai
 
 ##### What I did till now?
 Worked in product companies for more than a decade. My [linkedIn](https://linkedin.com/in/rohinikumarbarla) profile.    
-Co-founded a successful startup [Apxor](www.apxor.com)  
+Co-founded a successful startup [Apxor](http://www.apxor.com)  
 Made a few hundreds of people capable of developing quality software.   
   
   
