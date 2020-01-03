@@ -2,9 +2,9 @@
 
 | Work details | Company |   
 | --- | --- |   
+| Senior PHP developer, 2-3 yrs experience | [Gratian Technoloies](https://www.indeed.co.in/job/senior-php-developer-85a8736d35ce0109) |      
 | JS developer to build next generation Web Editor | [BlueSapience](http://www.bluesapience.com) |   
 | Vue developer to build stand alone components | [BlueSapience](http://www.bluesapience.com) |   
-| Librarian | [Book Magic](http://bookmagic.in) |      
 | Full stack developer, 3 yrs experience, Client Project | [Coursack](http://coursack.com) |   
 | Mobile developer, 2+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |    
 | Ruby on Rails, 3+ yrs experience | [Datafoundry](http://www.datafoundry.ai) |     
@@ -16,6 +16,7 @@
 | Work details | Company |   
 | --- | --- |   
 | iOS developer, 4+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |     
+| IOT developer, fresher | [Antar Smart Homes](http://www.antarsmarthomes.com) |     
         
 Open positions [outside of Vizag](outside)   
     

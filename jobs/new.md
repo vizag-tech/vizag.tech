@@ -13,7 +13,7 @@ Also send these details in the message, these are required for the process. Not 
 + Salary range.
 
 
-Note:
-These messages are processed weekly once.
+Post your open position details [here](https://api.whatsapp.com/send?phone=917674882980‬&text=Open%20position%20in%20our%20company...).  
 
-[Send WhatsApp message](https://api.whatsapp.com/send?phone=917674882980‬&text=Open%20position%20in%20our%20company...)
+Note:  
+These messages are processed weekly once.  
