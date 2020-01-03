@@ -22,11 +22,11 @@ Financial freedom is another area of interest. Still in the exploration phase on
 The modern factory schooling education system is one of the greatest crimes against humanity. One hundred years from now, we will look back at the violence of schooling and ask how could we have done this to innocent children.     
 
 ###### Technologies
-Handshake, Spacemesh, and a few more...
+[Handshake](https://www.namebase.io/blog/its-not-too-late-to-save-the-internet/), [Spacemesh](https://spacemesh.io/faq/#decentralization), and a few more...
   
 
 ##### What I did till now?
-Worked in product companies for more than a decade. [more details](https://linkedin.com/in/rohinikumarbarla)  
+Worked in product companies for more than a decade. My [linkedIn](https://linkedin.com/in/rohinikumarbarla) profile.    
 Co-founded a successful startup [Apxor](www.apxor.com)  
 Made a few hundreds of people capable of the computer science field.   
   
