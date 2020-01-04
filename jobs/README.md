@@ -2,7 +2,7 @@
 
 | Work details | Company |   
 | --- | --- |   
-| Senior PHP developer, 2-3 yrs experience | [Gratian Technoloies](https://www.indeed.co.in/job/senior-php-developer-85a8736d35ce0109) |      
+| Senior PHP developer, 2+ yrs experience | [Gratian Technoloies](https://www.indeed.co.in/job/senior-php-developer-85a8736d35ce0109) |      
 | Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](http://www.tilicho.in) |    
 | UI/UX Designer | [Tilicho Labs LLP](http://www.tilicho.in) |    
 | Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](http://www.tilicho.in) |    
