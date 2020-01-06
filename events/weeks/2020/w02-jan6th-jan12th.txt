@@ -1,2 +1,10 @@
 Events in Vizag in the week:
-Jan 6th - 12th
+Jan 6th - 12th week
+
+Saturday, 11th
+---------------
+Python for scraping and MQTT for IoT
+10:00 AM to 12:00 PM
+BookMagic Library
+https://www.meetup.com/Vizag-Technology-Learners/events/267552868/
+
