@@ -2,6 +2,13 @@
 
 | Work details | Company |   
 | --- | --- |   
+| Senior/Lead Data Scientist - Data Mining & Modeling (10-16 yrs) | [Franklin Templeton](https://www.linkedin.com/jobs/view/1662345576/) |  
+| Quant Analyst | [Franklin Templeton](https://www.linkedin.com/jobs/view/1673571605/) |   
+| Senior Devops Engineer | [Franklin Templeton](https://www.linkedin.com/jobs/view/1635862093/) |   
+| Big Data Solutions Architect | [Franklin Templeton](https://www.linkedin.com/jobs/view/1647276668/) |   
+| Lead/Principal - Data Scientist | [Franklin Templeton](https://www.linkedin.com/jobs/view/1618769457/) |   
+| Business Analyst | [Franklin Templeton](https://www.linkedin.com/jobs/view/1621563762/) |   
+| Big Data Senior Lead Engineer - Data Pipeline/Metadata | [Franklin Templeton](https://www.linkedin.com/jobs/view/1662345568/) |   
 | Senior PHP developer, 2+ yrs experience | [Gratian Technoloies](https://www.indeed.co.in/job/senior-php-developer-85a8736d35ce0109) |      
 | Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](https://tilicho.in) |    
 | UI/UX Designer | [Tilicho Labs LLP](https://tilicho.in) |    
