@@ -9,7 +9,6 @@
 | Lead/Principal - Data Scientist | [Franklin Templeton](https://www.linkedin.com/jobs/view/1618769457/) |   
 | Business Analyst | [Franklin Templeton](https://www.linkedin.com/jobs/view/1621563762/) |   
 | Big Data Senior Lead Engineer - Data Pipeline/Metadata | [Franklin Templeton](https://www.linkedin.com/jobs/view/1662345568/) |   
-| Senior PHP developer, 2+ yrs experience | [Gratian Technoloies](https://www.indeed.co.in/job/senior-php-developer-85a8736d35ce0109) |      
 | Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](https://tilicho.in) |    
 | UI/UX Designer | [Tilicho Labs LLP](https://tilicho.in) |    
 | Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](https://tilicho.in) |    
@@ -30,6 +29,7 @@
 
 | Work details | Company |   
 | --- | --- |   
+| Senior PHP developer, 2+ yrs experience | [Gratian Technoloies](https://gratian.tech) |      
 | iOS developer, 4+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |     
 | IOT developer, fresher | [Antar Smart Homes](http://www.antarsmarthomes.com) |     
         
