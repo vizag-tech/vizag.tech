@@ -2,6 +2,9 @@
 
 | Work details | Company |   
 | --- | --- |   
+| Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](https://tilicho.in) |    
+| JS developer (Intern/Junior) | [BlueSapience](http://www.bluesapience.com) |   
+| Vue developer to build stand alone components | [BlueSapience](http://www.bluesapience.com) |
 | Senior/Lead Data Scientist - Data Mining & Modeling (10-16 yrs) | [Franklin Templeton](https://www.linkedin.com/jobs/view/1662345576/) |  
 | Quant Analyst | [Franklin Templeton](https://www.linkedin.com/jobs/view/1673571605/) |   
 | Senior Devops Engineer | [Franklin Templeton](https://www.linkedin.com/jobs/view/1635862093/) |   
@@ -9,13 +12,9 @@
 | Lead/Principal - Data Scientist | [Franklin Templeton](https://www.linkedin.com/jobs/view/1618769457/) |   
 | Business Analyst | [Franklin Templeton](https://www.linkedin.com/jobs/view/1621563762/) |   
 | Big Data Senior Lead Engineer - Data Pipeline/Metadata | [Franklin Templeton](https://www.linkedin.com/jobs/view/1662345568/) |   
-| Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](https://tilicho.in) |    
 | UI/UX Designer | [Tilicho Labs LLP](https://tilicho.in) |    
-| Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](https://tilicho.in) |    
 | Backend Engineer (NodeJS) | [Tilicho Labs LLP](https://tilicho.in) |    
-| Frontend Engineer (ReactJS) | [Tilicho Labs LLP](https://tilicho.in) |    
-| JS developer to build next generation Web Editor | [BlueSapience](http://www.bluesapience.com) |   
-| Vue developer to build stand alone components | [BlueSapience](http://www.bluesapience.com) |   
+| Frontend Engineer (ReactJS) | [Tilicho Labs LLP](https://tilicho.in) |       
 | Full stack developer, 3 yrs experience, Client Project | [Coursack](http://coursack.com) |   
 | Mobile developer, 2+ yrs experience | [Antar Smart Homes](http://www.antarsmarthomes.com) |    
 | Marketing and Sales | [Antar Smart Homes](http://www.antarsmarthomes.com) |    
