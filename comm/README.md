@@ -1,8 +1,6 @@
-### Community tech meetups  
-  
-Run meetups with students for 6 months...  
-  
-Vizag.tech sunday meetups 9am-1pm  
+### Community tech hands-on  
+
+Second Sunday 9am-1pm  
   
 30m : Networking  
   
