@@ -34,4 +34,4 @@
         
 Open positions [outside of Vizag](outside)   
     
-[Subscribe](subscribe) for updates.
+For [updates](subscribe).  
