@@ -1,6 +1,6 @@
 ### Advice to students
 
-Follow this process to become at creating software.  
+Follow this process to become good at creating software.  
 
 Find a project that motivates you.  
 Writing bad code is better than not writing any code. Learn from your mistakes.  

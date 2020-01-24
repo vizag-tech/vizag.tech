@@ -19,5 +19,5 @@ Capable students want to stay in Vizag. Finding a job for these people is just-o
 > Actions:   
 > Internship early in 3rd-year summer, pay decent, challenging work. For product companies and exceptional quality services companies. To succeed you need such people.   
     
-I am actively engaged with Reality#3 group of people. Because I believe that **capable peoples' stay in Vizag will move the  needle forward** of the software industry in Vizag.   
+I am actively engaged with Reality#3 group of people. Because I believe that **capable peoples' stay in Vizag will move the needle forward** of the software industry in Vizag.   
    
