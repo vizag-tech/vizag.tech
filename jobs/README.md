@@ -4,7 +4,11 @@
 | --- | --- |   
 | Android Engineers (Senior/Junior/Intern) | [Tilicho Labs LLP](https://tilicho.in) |    
 | JS developer (Intern/Junior) | [BlueSapience](http://www.bluesapience.com) |   
-| Vue developer to build stand alone components | [BlueSapience](http://www.bluesapience.com) |
+| Vue developer | [BlueSapience](http://www.bluesapience.com) |  
+| Frontend Developer | [Intellige](https://intelligetech.com) |   
+| Backend or Full Stack Developer | [Intellige](https://intelligetech.com) |   
+| Content Writer | [Intellige](https://intelligetech.com) |   
+| Chat Support | [Intellige](https://intelligetech.com) |   
 | Senior/Lead Data Scientist - Data Mining & Modeling (10-16 yrs) | [Franklin Templeton](https://www.linkedin.com/jobs/view/1662345576/) |  
 | Quant Analyst | [Franklin Templeton](https://www.linkedin.com/jobs/view/1673571605/) |   
 | Senior Devops Engineer | [Franklin Templeton](https://www.linkedin.com/jobs/view/1635862093/) |   
