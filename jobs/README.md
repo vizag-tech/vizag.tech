@@ -1,4 +1,4 @@
-#### Open positions
+### Open positions
 
 | Work details | Company |   
 | --- | --- |   
