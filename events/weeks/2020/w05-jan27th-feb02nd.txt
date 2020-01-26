@@ -1,63 +1,30 @@
-Jan 27th - (null) week
+Jan 27th - Feb 02nd
 
-Monday, 27th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Tuesday, 28th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Wednesday, 29th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
 
 Thursday, 30th
 --------------
-#1
-<desc>
-<time duration>
+Knowledge Session - Decoding the Shareholders Agreement
+6:00 PM to 8:00 PM
 <location>
-<url>
+https://www.meetup.com/urclubvizag/events/267577790
 
-Friday, 31st
+
+Sunday, 02nd
 --------------
 #1
-<desc>
-<time duration>
-<location>
-<url>
+BITCOIN - BLOCKCHAIN CONFERENCE
+05:00 PM
+Keys Select Hotel
+https://www.townscript.com/e/asian-decentralized-summit-40-203001
 
-Saturday, (null)
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
+#2
+International Conference on Advances in Software and Computing Technologies
+09:00 AM - 06:00 PM
+Hotel Akshaya
+https://10times.com/icasct-visakhapatnam
 
-Sunday, (null)
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
----
-
-Subscribe to whatsapp group:
-https://chat.whatsapp.com/EZ7ggy0kEmJ8nCiY6pJYsp 
-to know about Tech events happening in Vizag.
+#3
+International Conference on Recent Advances in Engineering and Technology
+09:00 AM - 06:00 PM
+Hotel Akshaya
+https://10times.com/icraet-visakhapatnam
