@@ -4,9 +4,9 @@ I care for leading a balanced life and having joyful people around. Our minds ar
   
 ##### What I do?
 I am working on a few side projects.
-+ fearlesscoders.school [details](http://fearlesscoders.school) 
-+ vizag.tech [detail](http://vizag.tech)
-+ bcse.me [details](http://bcse.me)
++ fearlesscoders.school [details](https://fearlesscoders.school) 
++ vizag.tech [detail](https://vizag.tech)
++ bcse.me [details](https://bcse.me)
 + and few more...  
 
 
