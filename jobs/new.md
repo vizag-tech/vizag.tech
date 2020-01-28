@@ -4,13 +4,7 @@ For software related job openings you can send WhatsApp message with following d
 + Open position role
 + Experience required
 + Company website
-
-Also send these details in the message, these are required for the process. Not for sharing with public.
-+ Contact person to reach out.
-	+ name 
-	+ phone number
-	+ email address
-+ Salary range.
++ Job posting link in LinkedIn or Naukri or in your company's carreers page
 
 
 Post your open position details [here](https://api.whatsapp.com/send?phone=917674882980‬&text=Open%20position%20in%20our%20company...).  
