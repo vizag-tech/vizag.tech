@@ -46,7 +46,7 @@ Saturday, 29th
 <desc>
 <time duration>
 <location>
-<url>
+https://allevents.in/visakhapatnam/virtual-reality-augmented-reality-workshop/80003048371010
 
 Sunday, 1st
 --------------

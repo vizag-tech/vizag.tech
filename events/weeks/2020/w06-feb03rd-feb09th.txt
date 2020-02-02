@@ -1,60 +1,27 @@
 Feb 3rd - 9th week
 
-Monday, 3rd
------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Tuesday, 4th
-------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Wednesday, 5th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Thursday, 6th
--------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Friday, 7th
------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
 Saturday, 8th
 -------------
 #1
-<desc>
-<time duration>
-<location>
-<url>
+Intro to Machine Learning and Kafka for IoT use cases
+10:00 AM to 12:00 PM
+BookMagic Library
+https://www.meetup.com/Vizag-Technology-Learners/events/268211837/
+
+#2
+Vizag Open Coffee Club - Meet 4
+4:30 PM to 6:30 PM
+Sector 9 Drive in
+https://www.meetup.com/vizagstartups/events/
+
 
 Sunday, 9th
 -----------
 #1
-<desc>
-<time duration>
-<location>
-<url>
+International Academic Conference on Engineering and Technology
+10:00 AM - 05:00 PM
+A.R Grand Hotel
+https://10times.com/iacet-visakhapatnam
 
 ---
 

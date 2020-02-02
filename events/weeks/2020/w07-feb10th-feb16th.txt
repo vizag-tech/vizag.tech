@@ -27,10 +27,10 @@ Wednesday, 12th
 Thursday, 13th
 --------------
 #1
-<desc>
-<time duration>
-<location>
-<url>
+APEX CCB’s 29th Meetup
+6:30 PM to 8:30 PM
+APEX Seminar Hall
+https://www.meetup.com/Coffee-Conversation-Books/events/268035513/
 
 Friday, 14th
 --------------
