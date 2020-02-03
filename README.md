@@ -14,4 +14,4 @@
 > willing, caring individuals can find   
 > an experience that changes them.  
      
-| [jobs](jobs) | [events](events) |  [students](students) | [articles](articles) |    
+| [jobs](jobs) | [events](events) |  [students](students) | [articles](articles) | [abridged](abridged) |   
