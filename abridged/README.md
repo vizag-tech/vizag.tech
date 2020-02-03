@@ -7,3 +7,6 @@ Abridged versions of articles that I find useful.
 List:
 + [Think Slow](think-slow)
 + [Computational Thinking](computational-thinking)
++ [Why debugging skill is important?](why-debugging-skill-is-important)
+  
+Other useful [links](other-useful-links).  
