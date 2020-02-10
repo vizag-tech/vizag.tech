@@ -51,10 +51,10 @@ Saturday, 22nd
 Sunday, 23rd
 --------------
 #1
-<desc>
-<time duration>
-<location>
-<url>
+BITCOIN - BLOCKCHAIN CONFERENCE
+5:00pm
+Keys Select Hotel, Daba Gardens
+https://www.townscript.com/e/asian-decentralized-summit-40-203001
 
 ---
 

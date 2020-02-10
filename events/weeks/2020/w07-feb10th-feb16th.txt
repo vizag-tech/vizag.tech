@@ -1,60 +1,26 @@
 Feb 10th - 16th week
 
-Monday, 10th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Tuesday, 11th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Wednesday, 12th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
 Thursday, 13th
 --------------
-#1
 APEX CCB’s 29th Meetup
 6:30 PM to 8:30 PM
 APEX Seminar Hall
 https://www.meetup.com/Coffee-Conversation-Books/events/268035513/
 
-Friday, 14th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
 
 Saturday, 15th
 --------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
+Product Hunt Annual Meetup Vizag
+4:00 PM – 7:00 PM
+Location to be announced
+https://www.eventbrite.com/e/product-hunt-annual-meetup-vizag-tickets-90465202857
 
 Sunday, 16th
 --------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
+Lean Startup for First Time Entrepreneurs
+12:30 PM to 1:30 PM
+Google Hangout
+https://www.meetup.com/Lean-Startups-Vizag/events/nxbgmrybcdbvb/
 
 ---
 
