@@ -12,7 +12,7 @@ Subscribe to this WhatsApp [group](https://chat.whatsapp.com/EZ7ggy0kEmJ8nCiY6pJ
 | Jan20th - 26th |  |  |  |  |  |  |  | [👁](weeks/2020/w04-jan20th-jan26th.txt) |  
 | Jan27th - Feb02nd |  |  |  | ✓ |  |  | ✓✓ | [👁](weeks/2020/w05-jan27th-feb02nd.txt) |  
 | Feb03th - 09th |  |  |  |  |  | ✓✓ | ✓ | [👁](weeks/2020/w06-feb03rd-feb09th.txt) |  
-| Feb10th - 16th |  |  |  |  |  |  |  | [👁](weeks/2020/w07-feb10th-feb16th.txt) |  
-| Feb17th - 23rd |  |  |  |  |  |  |  | [👁](weeks/2020/w08-feb17th-feb23rd.txt) |  
+| Feb10th - 16th |  |  |  | ✓ |  | ✓ | ✓ | [👁](weeks/2020/w07-feb10th-feb16th.txt) |  
+| Feb17th - 23rd |  |  |  |  |  |  | ✓ | [👁](weeks/2020/w08-feb17th-feb23rd.txt) |  
 | Feb24th - Mar01st |  |  |  |  |  |  |  | [👁](weeks/2020/w09-feb24th-mar01st.txt) |  
 

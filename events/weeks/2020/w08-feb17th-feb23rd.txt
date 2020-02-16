@@ -1,56 +1,8 @@
 Feb 17th - 23rd week
 
-Monday, 17th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Tuesday, 18th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Wednesday, 19th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Thursday, 20th
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Friday, 21st
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
-
-Saturday, 22nd
---------------
-#1
-<desc>
-<time duration>
-<location>
-<url>
 
 Sunday, 23rd
 --------------
-#1
 BITCOIN - BLOCKCHAIN CONFERENCE
 5:00pm
 Keys Select Hotel, Daba Gardens
