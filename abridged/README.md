@@ -9,5 +9,6 @@ List:
 + [Computational Thinking](computational-thinking)
 + [Why debugging skill is important?](why-debugging-skill-is-important)
 + What top tech employers want [from new hires](from-new-hires)?
++ [Process driven approach to education](process-driven-approach-to-education)
   
 Other useful [links](other-useful-links).  
