@@ -8,5 +8,6 @@ List:
 + [Think Slow](think-slow)
 + [Computational Thinking](computational-thinking)
 + [Why debugging skill is important?](why-debugging-skill-is-important)
++ What top tech employers want [from new hires](from-new-hires)?
   
 Other useful [links](other-useful-links).  
