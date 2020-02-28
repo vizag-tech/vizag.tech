@@ -10,5 +10,6 @@ List:
 + [Why debugging skill is important?](why-debugging-skill-is-important)
 + What top tech employers want [from new hires](from-new-hires)?
 + [Process driven approach to education](process-driven-approach-to-education)
+  +[Striving to create](striving-to-create)
   
 Other useful [links](other-useful-links).  
